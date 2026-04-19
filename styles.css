@@ -1,0 +1,52 @@
+/* Custom Stylesheet - Created from Scratch */
+
+body {
+    background-color: #fcfcfc;
+    margin: 0;
+    padding: 0;
+}
+
+/* Div 1: Navigation and Header wrapper */
+.container-div {
+    padding: 30px;
+    background-color: #ffffff;
+    border-bottom: 3px solid #ff6600;
+    text-align: center;
+}
+
+/* Div 2: Main Content Block */
+.content-div {
+    padding: 50px;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: "Verdana", Geneva, sans-serif; /* Custom Font */
+    color: #333333; /* Custom Color */
+}
+
+/* Div 3: Visualization Block */
+.tableau-div {
+    margin: 40px auto;
+    width: 90%;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #004b87;
+    font-family: "Georgia", serif;
+}
+
+.custom-nav a {
+    text-decoration: none;
+    color: #ff6600;
+    font-weight: bold;
+}
+
+.main-img {
+    width: 100%;
+    border-radius: 15px;
+    margin: 20px 0;
+}
+
+.video-box {
+    margin-top: 20px;
+}
